@@ -1,0 +1,220 @@
+{
+  "siteName": "SH1R00 Construction",
+  "tagline": "Building Excellence Since 1998",
+  "skipToContent": "Skip to main content",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "blog": "Blog",
+    "contact": "Contact",
+    "faqs": "FAQ"
+  },
+  "hero": {
+    "title1": "Building the Future",
+    "subtitle1": "Commercial and residential construction with uncompromising quality",
+    "title2": "Industrial Excellence",
+    "subtitle2": "Large-scale industrial projects delivered on time and on budget",
+    "title3": "Renovation Experts",
+    "subtitle3": "Transform your space with our award-winning renovation team",
+    "cta": "Get a Free Quote",
+    "ourWork": "View Our Work",
+    "slide": "Slide",
+    "of": "of"
+  },
+  "services": {
+    "heading": "Our Services",
+    "subheading": "Comprehensive construction solutions for every project",
+    "commercialTitle": "Commercial Construction",
+    "commercialDesc": "Office buildings, retail spaces, and mixed-use developments built to the highest standards.",
+    "residentialTitle": "Residential Construction",
+    "residentialDesc": "Custom homes, multi-family units, and community developments crafted with care.",
+    "industrialTitle": "Industrial Projects",
+    "industrialDesc": "Warehouses, manufacturing facilities, and infrastructure projects at scale.",
+    "renovationTitle": "Renovation & Remodeling",
+    "renovationDesc": "Complete interior and exterior renovations tailored to your vision.",
+    "civilTitle": "Civil Engineering",
+    "civilDesc": "Roads, bridges, drainage systems, and public infrastructure.",
+    "designTitle": "Design & Build",
+    "designDesc": "End-to-end design and construction services from concept to completion.",
+    "learnMore": "Learn More"
+  },
+  "featured": {
+    "heading": "Featured Projects",
+    "subheading": "Showcasing our finest work across sectors",
+    "project1Title": "Riverside Office Complex",
+    "project1Desc": "A 12-story commercial tower with LEED Gold certification",
+    "project2Title": "Oakwood Residences",
+    "project2Desc": "45-unit luxury residential community in the heart of the city",
+    "project3Title": "Metro Distribution Center",
+    "project3Desc": "200,000 sq ft industrial facility with automated logistics",
+    "viewAll": "View All Projects"
+  },
+  "cta": {
+    "heading": "Ready to Start Your Project?",
+    "subheading": "Let us bring your vision to life with our expert team and proven process. Contact us today for a free consultation.",
+    "button": "Contact Us Today"
+  },
+  "about": {
+    "heading": "About Us",
+    "storyHeading": "Our Story",
+    "storyP1": "SH1R00 Construction was founded in 1998 with a simple mission: to build structures that stand the test of time. What began as a small family-operated business has grown into one of the region's most trusted construction firms, completing over 500 projects across commercial, residential, and industrial sectors.",
+    "storyP2": "Over the past two decades, we have built a reputation for excellence, integrity, and innovation. Our team of skilled engineers, architects, project managers, and craftsmen work collaboratively to deliver projects that exceed expectations.",
+    "storyP3": "We believe that every structure we build becomes part of the community's fabric. That commitment drives everything we do — from the materials we select to the relationships we build with our clients.",
+    "missionHeading": "Our Mission",
+    "missionText": "To deliver exceptional construction services through innovation, integrity, and craftsmanship, creating lasting value for our clients and communities.",
+    "valuesHeading": "Our Values",
+    "valueSafety": "Safety First",
+    "valueSafetyDesc": "Zero compromise on workplace safety. Every team member deserves to go home safe.",
+    "valueQuality": "Uncompromising Quality",
+    "valueQualityDesc": "We use premium materials and proven techniques to deliver enduring results.",
+    "valueIntegrity": "Integrity & Transparency",
+    "valueIntegrityDesc": "Honest communication and fair pricing are the foundations of every client relationship.",
+    "valueInnovation": "Innovation",
+    "valueInnovationDesc": "We embrace new technologies and methods to improve efficiency and outcomes.",
+    "teamHeading": "Meet Our Leadership",
+    "team1Name": "Michael Robertson",
+    "team1Role": "CEO & Founder",
+    "team2Name": "Sarah Chen",
+    "team2Role": "Chief Operations Officer",
+    "team3Name": "David Okafor",
+    "team3Role": "Director of Engineering",
+    "team4Name": "Lisa Thompson",
+    "team4Role": "Head of Design",
+    "statsYears": "Years in Business",
+    "statsProjects": "Projects Completed",
+    "statsClients": "Happy Clients",
+    "statsTeam": "Team Members"
+  },
+  "blog": {
+    "heading": "Our Blog",
+    "subheading": "Insights, news, and expertise from the construction industry",
+    "readMore": "Read More",
+    "publishedOn": "Published on",
+    "backToBlog": "Back to Blog",
+    "relatedPosts": "Related Posts",
+    "article1": {
+      "title": "5 Trends Shaping Modern Commercial Construction",
+      "excerpt": "From smart buildings to sustainable materials, discover the innovations transforming the commercial construction landscape in 2025.",
+      "date": "2025-06-15",
+      "author": "Michael Robertson",
+      "category": "Commercial",
+      "content": "The commercial construction industry is undergoing a remarkable transformation. As we navigate through 2025, several key trends are reshaping how we design, build, and operate commercial spaces. From the integration of artificial intelligence in project management to the widespread adoption of sustainable building practices, the industry is evolving faster than ever before. Smart building technology has moved from novelty to necessity, with IoT sensors and automated systems becoming standard in new commercial developments. Meanwhile, modular construction techniques are reducing build times by up to 50% while maintaining exceptional quality standards. Perhaps most significantly, the focus on occupant wellness has led to new design paradigms that prioritize natural light, air quality, and biophilic elements."
+    },
+    "article2": {
+      "title": "The Complete Guide to Home Renovation Planning",
+      "excerpt": "Everything you need to know before starting your home renovation project — budgeting, permits, and choosing the right contractor.",
+      "date": "2025-05-28",
+      "author": "Lisa Thompson",
+      "category": "Residential",
+      "content": "Planning a home renovation can be both exciting and overwhelming. Whether you are updating a single room or undertaking a whole-house remodel, proper planning is the key to success. Start by clearly defining your goals and priorities. Are you renovating to increase property value, improve functionality, or enhance aesthetics? Next, establish a realistic budget that includes a 15-20% contingency for unexpected issues. Research local building codes and permit requirements before you begin — this step alone can save weeks of delays. When selecting a contractor, look beyond the lowest bid. Check references, review past projects, and ensure they carry proper licensing and insurance. A well-planned renovation not only transforms your space but also adds lasting value to your home."
+    },
+    "article3": {
+      "title": "Sustainability in Construction: Beyond the Buzzwords",
+      "excerpt": "How our industry is moving toward genuinely sustainable practices — from material sourcing to energy-efficient design.",
+      "date": "2025-05-10",
+      "author": "Sarah Chen",
+      "category": "Sustainability",
+      "content": "Sustainability in construction is no longer optional — it is an imperative. At SH1R00 Construction, we have embraced this challenge by implementing comprehensive green building practices across all our projects. This means going beyond just using recycled materials or installing solar panels. True sustainability encompasses the entire lifecycle of a building: from responsible material sourcing and energy-efficient construction methods to designs that minimize operational carbon footprints. We are proud to report that 80% of our projects in 2024 achieved LEED certification, and we are on track to make that 100% by 2026. The benefits extend beyond environmental impact — our clients report average energy savings of 30% in LEED-certified buildings."
+    }
+  },
+  "contact": {
+    "heading": "Contact Us",
+    "subheading": "We would love to hear from you. Reach out for a consultation or quote.",
+    "formTitle": "Send Us a Message",
+    "name": "Full Name",
+    "namePlaceholder": "Your full name",
+    "email": "Email Address",
+    "emailPlaceholder": "your[at]email.com",
+    "phone": "Phone Number",
+    "phonePlaceholder": "Your phone number",
+    "subject": "Subject",
+    "subjectPlaceholder": "What is this regarding?",
+    "message": "Message",
+    "messagePlaceholder": "Tell us about your project...",
+    "submit": "Send Message",
+    "submitting": "Sending...",
+    "success": "Thank you! Your message has been sent. We will get back to you within 24 hours.",
+    "infoHeading": "Contact Information",
+    "address": "123 Construction Blvd, Suite 400, Metropolis, ST 10001",
+    "phoneNumber": "+1 (555) 123-4567",
+    "emailAddress": "info[at]sh1r00-construction.com",
+    "hoursHeading": "Business Hours",
+    "hoursWeekday": "Monday - Friday: 7:00 AM - 6:00 PM",
+    "hoursSaturday": "Saturday: 8:00 AM - 2:00 PM",
+    "hoursSunday": "Sunday: Closed",
+    "validation": {
+      "nameRequired": "Please enter your name.",
+      "emailRequired": "Please enter your email address.",
+      "emailInvalid": "Please enter a valid email address.",
+      "messageRequired": "Please enter a message."
+    }
+  },
+  "faqs": {
+    "heading": "Frequently Asked Questions",
+    "subheading": "Find answers to common questions about our services and process.",
+    "q1": "What types of construction projects do you handle?",
+    "a1": "We handle a wide range of projects including commercial office buildings, residential communities, industrial facilities, renovations, civil engineering works, and design-build projects. Our team has expertise across all major construction sectors.",
+    "q2": "How long does a typical commercial project take?",
+    "a2": "Project timelines vary significantly based on scope and complexity. A standard commercial office build-out might take 4-8 months, while a large-scale ground-up construction could take 12-24 months. We provide detailed timelines during the planning phase.",
+    "q3": "Are you licensed and insured?",
+    "a3": "Yes, SH1R00 Construction is fully licensed in all jurisdictions where we operate. We carry comprehensive liability insurance, workers compensation, and are bonded for your protection.",
+    "q4": "Do you offer free estimates?",
+    "a4": "Yes, we provide free initial consultations and estimates for all projects. Contact us to schedule a site visit and receive a detailed proposal tailored to your needs.",
+    "q5": "What is your approach to project management?",
+    "a5": "We use a collaborative project management approach with dedicated project managers, regular progress reporting, and transparent communication. We utilize modern project management software to keep all stakeholders informed at every stage.",
+    "q6": "Can you work within our budget constraints?",
+    "a6": "Absolutely. We work closely with clients to develop solutions that meet both their vision and budget. Our value engineering process identifies cost-saving opportunities without compromising quality or functionality.",
+    "q7": "Do you handle permits and regulatory approvals?",
+    "a7": "Yes, we manage the entire permitting and regulatory compliance process. Our team is experienced with local building codes, zoning requirements, and environmental regulations.",
+    "q8": "What warranty do you offer on your work?",
+    "a8": "We stand behind our work with a comprehensive 2-year warranty on workmanship, in addition to all manufacturer warranties on materials and systems. We remain available to address any concerns even beyond the warranty period."
+  },
+  "dynamicPage": {
+    "services": {
+      "title": "Services",
+      "content": "We offer a comprehensive range of construction services designed to meet the diverse needs of our clients. Our team brings decades of combined experience to every project, ensuring quality results delivered on time and within budget."
+    },
+    "projects": {
+      "title": "Projects",
+      "content": "Our portfolio showcases over 500 completed projects across commercial, residential, and industrial sectors. Each project reflects our commitment to quality, innovation, and client satisfaction."
+    },
+    "careers": {
+      "title": "Careers",
+      "content": "Join a team that builds the future. We are always looking for talented professionals who share our passion for construction excellence. Check our current openings and apply today."
+    }
+  },
+  "footer": {
+    "aboutText": "SH1R00 Construction is a leading construction firm delivering exceptional commercial, residential, and industrial projects since 1998.",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us",
+    "copyright": "2025 SH1R00 Construction. All rights reserved.",
+    "madeWith": "Made with",
+    "by": "by SH1R00"
+  },
+  "notFound": {
+    "heading": "Page Not Found",
+    "message": "The page you are looking for does not exist or has been moved. Let us help you find your way back.",
+    "button": "Back to Home",
+    "errorHeading": "Something Went Wrong",
+    "errorMessage": "We encountered an unexpected error. Please try again or return to the home page."
+  },
+  "darkMode": {
+    "toggle": "Toggle dark mode",
+    "light": "Light mode",
+    "dark": "Dark mode"
+  },
+  "language": {
+    "select": "Select language",
+    "en": "English",
+    "es": "Español",
+    "am": "አማርኛ"
+  },
+  "menu": {
+    "open": "Open menu",
+    "close": "Close menu",
+    "mainNav": "Main navigation"
+  },
+  "decorative": "decorative"
+}

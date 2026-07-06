@@ -1,0 +1,220 @@
+{
+  "siteName": "SH1R00 Construcción",
+  "tagline": "Construyendo Excelencia Desde 1998",
+  "skipToContent": "Saltar al contenido principal",
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "projects": "Proyectos",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "faqs": "Preguntas"
+  },
+  "hero": {
+    "title1": "Construyendo el Futuro",
+    "subtitle1": "Construcción comercial y residencial con calidad inigualable",
+    "title2": "Excelencia Industrial",
+    "subtitle2": "Proyectos industriales a gran escala entregados a tiempo y dentro del presupuesto",
+    "title3": "Expertos en Renovación",
+    "subtitle3": "Transforme su espacio con nuestro galardonado equipo de renovación",
+    "cta": "Solicitar Presupuesto",
+    "ourWork": "Ver Nuestros Trabajos",
+    "slide": "Diapositiva",
+    "of": "de"
+  },
+  "services": {
+    "heading": "Nuestros Servicios",
+    "subheading": "Soluciones integrales de construcción para cada proyecto",
+    "commercialTitle": "Construcción Comercial",
+    "commercialDesc": "Edificios de oficinas, espacios comerciales y desarrollos de uso mixto construidos con los más altos estándares.",
+    "residentialTitle": "Construcción Residencial",
+    "residentialDesc": "Casas personalizadas, unidades multifamiliares y desarrollos comunitarios elaborados con cuidado.",
+    "industrialTitle": "Proyectos Industriales",
+    "industrialDesc": "Almacenes, instalaciones de manufactura y proyectos de infraestructura a escala.",
+    "renovationTitle": "Renovación y Remodelación",
+    "renovationDesc": "Renovaciones completas de interiores y exteriores adaptadas a su visión.",
+    "civilTitle": "Ingeniería Civil",
+    "civilDesc": "Carreteras, puentes, sistemas de drenaje e infraestructura pública.",
+    "designTitle": "Diseño y Construcción",
+    "designDesc": "Servicios integrales de diseño y construcción desde el concepto hasta la finalización.",
+    "learnMore": "Más Información"
+  },
+  "featured": {
+    "heading": "Proyectos Destacados",
+    "subheading": "Mostrando nuestro mejor trabajo en todos los sectores",
+    "project1Title": "Complejo de Oficinas Riverside",
+    "project1Desc": "Una torre comercial de 12 pisos con certificación LEED Oro",
+    "project2Title": "Residencias Oakwood",
+    "project2Desc": "Comunidad residencial de lujo de 45 unidades en el corazón de la ciudad",
+    "project3Title": "Centro de Distribución Metro",
+    "project3Desc": "Instalación industrial de 18,500 metros cuadrados con logística automatizada",
+    "viewAll": "Ver Todos los Proyectos"
+  },
+  "cta": {
+    "heading": "Listo para Comenzar su Proyecto?",
+    "subheading": "Permítanos hacer realidad su visión con nuestro equipo experto y proceso comprobado. Contáctenos hoy para una consulta gratuita.",
+    "button": "Contáctenos Hoy"
+  },
+  "about": {
+    "heading": "Sobre Nosotros",
+    "storyHeading": "Nuestra Historia",
+    "storyP1": "SH1R00 Construcción fue fundada en 1998 con una misión simple: construir estructuras que resistan el paso del tiempo. Lo que comenzó como un pequeño negocio familiar se ha convertido en una de las empresas de construcción más confiables de la región, completando más de 500 proyectos en los sectores comercial, residencial e industrial.",
+    "storyP2": "Durante las últimas dos décadas, hemos construido una reputación de excelencia, integridad e innovación. Nuestro equipo de ingenieros, arquitectos, gerentes de proyecto y artesanos trabajan en colaboración para entregar proyectos que superan las expectativas.",
+    "storyP3": "Creemos que cada estructura que construimos se convierte en parte del tejido de la comunidad. Ese compromiso impulsa todo lo que hacemos, desde los materiales que seleccionamos hasta las relaciones que construimos con nuestros clientes.",
+    "missionHeading": "Nuestra Misión",
+    "missionText": "Ofrecer servicios de construcción excepcionales a través de la innovación, integridad y artesanía, creando valor duradero para nuestros clientes y comunidades.",
+    "valuesHeading": "Nuestros Valores",
+    "valueSafety": "Seguridad Primero",
+    "valueSafetyDesc": "Compromiso cero con la seguridad en el lugar de trabajo. Cada miembro del equipo merece llegar a casa seguro.",
+    "valueQuality": "Calidad Inquebrantable",
+    "valueQualityDesc": "Utilizamos materiales de primera calidad y técnicas probadas para ofrecer resultados duraderos.",
+    "valueIntegrity": "Integridad y Transparencia",
+    "valueIntegrityDesc": "La comunicación honesta y los precios justos son la base de cada relación con el cliente.",
+    "valueInnovation": "Innovación",
+    "valueInnovationDesc": "Adoptamos nuevas tecnologías y métodos para mejorar la eficiencia y los resultados.",
+    "teamHeading": "Conozca a Nuestro Liderazgo",
+    "team1Name": "Michael Robertson",
+    "team1Role": "CEO y Fundador",
+    "team2Name": "Sarah Chen",
+    "team2Role": "Directora de Operaciones",
+    "team3Name": "David Okafor",
+    "team3Role": "Director de Ingeniería",
+    "team4Name": "Lisa Thompson",
+    "team4Role": "Jefa de Diseño",
+    "statsYears": "Años de Experiencia",
+    "statsProjects": "Proyectos Completados",
+    "statsClients": "Clientes Satisfechos",
+    "statsTeam": "Miembros del Equipo"
+  },
+  "blog": {
+    "heading": "Nuestro Blog",
+    "subheading": "Información, noticias y experiencia de la industria de la construcción",
+    "readMore": "Leer Más",
+    "publishedOn": "Publicado el",
+    "backToBlog": "Volver al Blog",
+    "relatedPosts": "Artículos Relacionados",
+    "article1": {
+      "title": "5 Tendencias que Moldean la Construcción Comercial Moderna",
+      "excerpt": "Desde edificios inteligentes hasta materiales sostenibles, descubra las innovaciones que transforman el panorama de la construcción comercial en 2025.",
+      "date": "2025-06-15",
+      "author": "Michael Robertson",
+      "category": "Comercial",
+      "content": "La industria de la construcción comercial está experimentando una transformación notable. A medida que avanzamos en 2025, varias tendencias clave están remodelando cómo diseñamos, construimos y operamos espacios comerciales. Desde la integración de la inteligencia artificial en la gestión de proyectos hasta la adopción generalizada de prácticas de construcción sostenible, la industria está evolucionando más rápido que nunca. La tecnología de edificios inteligentes ha pasado de ser una novedad a una necesidad, con sensores IoT y sistemas automatizados convirtiéndose en estándar en nuevos desarrollos comerciales."
+    },
+    "article2": {
+      "title": "La Guía Completa para la Planificación de Renovación del Hogar",
+      "excerpt": "Todo lo que necesita saber antes de comenzar su proyecto de renovación: presupuesto, permisos y elección del contratista adecuado.",
+      "date": "2025-05-28",
+      "author": "Lisa Thompson",
+      "category": "Residencial",
+      "content": "Planificar una renovación del hogar puede ser emocionante y abrumador. Ya sea que esté actualizando una sola habitación o realizando una remodelación completa de la casa, la planificación adecuada es la clave del éxito. Comience definiendo claramente sus objetivos y prioridades. Está renovando para aumentar el valor de la propiedad, mejorar la funcionalidad o mejorar la estética? A continuación, establezca un presupuesto realista que incluya un 15-20% de contingencia para problemas inesperados. Investigue los códigos de construcción locales y los requisitos de permisos antes de comenzar."
+    },
+    "article3": {
+      "title": "Sostenibilidad en la Construcción: Más Allá de las Palabras de Moda",
+      "excerpt": "Cómo nuestra industria avanza hacia prácticas genuinamente sostenibles, desde el abastecimiento de materiales hasta el diseño energéticamente eficiente.",
+      "date": "2025-05-10",
+      "author": "Sarah Chen",
+      "category": "Sostenibilidad",
+      "content": "La sostenibilidad en la construcción ya no es opcional, es un imperativo. En SH1R00 Construcción, hemos adoptado este desafío implementando prácticas integrales de construcción ecológica en todos nuestros proyectos. Esto significa ir más allá de simplemente usar materiales reciclados o instalar paneles solares. La verdadera sostenibilidad abarca todo el ciclo de vida de un edificio: desde el abastecimiento responsable de materiales y métodos de construcción energéticamente eficientes hasta diseños que minimizan la huella de carbono operativa."
+    }
+  },
+  "contact": {
+    "heading": "Contáctenos",
+    "subheading": "Nos encantaría saber de usted. Comuníquese para una consulta o presupuesto.",
+    "formTitle": "Envíenos un Mensaje",
+    "name": "Nombre Completo",
+    "namePlaceholder": "Su nombre completo",
+    "email": "Correo Electrónico",
+    "emailPlaceholder": "su[at]correo.com",
+    "phone": "Número de Teléfono",
+    "phonePlaceholder": "Su número de teléfono",
+    "subject": "Asunto",
+    "subjectPlaceholder": "De qué se trata?",
+    "message": "Mensaje",
+    "messagePlaceholder": "Cuéntenos sobre su proyecto...",
+    "submit": "Enviar Mensaje",
+    "submitting": "Enviando...",
+    "success": "Gracias! Su mensaje ha sido enviado. Le responderemos dentro de 24 horas.",
+    "infoHeading": "Información de Contacto",
+    "address": "123 Construction Blvd, Suite 400, Metropolis, ST 10001",
+    "phoneNumber": "+1 (555) 123-4567",
+    "emailAddress": "info[at]sh1r00-construction.com",
+    "hoursHeading": "Horario de Atención",
+    "hoursWeekday": "Lunes - Viernes: 7:00 AM - 6:00 PM",
+    "hoursSaturday": "Sábado: 8:00 AM - 2:00 PM",
+    "hoursSunday": "Domingo: Cerrado",
+    "validation": {
+      "nameRequired": "Por favor ingrese su nombre.",
+      "emailRequired": "Por favor ingrese su correo electrónico.",
+      "emailInvalid": "Por favor ingrese un correo electrónico válido.",
+      "messageRequired": "Por favor ingrese un mensaje."
+    }
+  },
+  "faqs": {
+    "heading": "Preguntas Frecuentes",
+    "subheading": "Encuentre respuestas a preguntas comunes sobre nuestros servicios y procesos.",
+    "q1": "Qué tipos de proyectos de construcción manejan?",
+    "a1": "Manejamos una amplia gama de proyectos que incluyen edificios de oficinas comerciales, comunidades residenciales, instalaciones industriales, renovaciones, obras de ingeniería civil y proyectos de diseño y construcción. Nuestro equipo tiene experiencia en todos los sectores principales de la construcción.",
+    "q2": "Cuánto tiempo toma un proyecto comercial típico?",
+    "a2": "Los plazos del proyecto varían significativamente según el alcance y la complejidad. Una construcción interior de oficinas comerciales estándar puede tomar de 4 a 8 meses, mientras que una construcción a gran escala desde cero podría tomar de 12 a 24 meses. Proporcionamos plazos detallados durante la fase de planificación.",
+    "q3": "Están licenciados y asegurados?",
+    "a3": "Sí, SH1R00 Construcción está completamente licenciada en todas las jurisdicciones donde operamos. Contamos con seguro de responsabilidad civil integral, compensación laboral y estamos afianzados para su protección.",
+    "q4": "Ofrecen presupuestos gratuitos?",
+    "a4": "Sí, ofrecemos consultas y presupuestos iniciales gratuitos para todos los proyectos. Contáctenos para programar una visita al sitio y recibir una propuesta detallada adaptada a sus necesidades.",
+    "q5": "Cuál es su enfoque para la gestión de proyectos?",
+    "a5": "Utilizamos un enfoque colaborativo de gestión de proyectos con gerentes de proyecto dedicados, informes regulares de progreso y comunicación transparente. Utilizamos software moderno de gestión de proyectos para mantener informados a todos los interesados en cada etapa.",
+    "q6": "Pueden trabajar dentro de nuestras limitaciones presupuestarias?",
+    "a6": "Absolutamente. Trabajamos estrechamente con los clientes para desarrollar soluciones que satisfagan tanto su visión como su presupuesto. Nuestro proceso de ingeniería de valor identifica oportunidades de ahorro sin comprometer la calidad o funcionalidad.",
+    "q7": "Manejan permisos y aprobaciones regulatorias?",
+    "a7": "Sí, gestionamos todo el proceso de permisos y cumplimiento normativo. Nuestro equipo tiene experiencia con los códigos de construcción locales, requisitos de zonificación y regulaciones ambientales.",
+    "q8": "Qué garantía ofrecen en su trabajo?",
+    "a8": "Respaldamos nuestro trabajo con una garantía integral de 2 años en mano de obra, además de todas las garantías del fabricante en materiales y sistemas. Seguimos disponibles para abordar cualquier inquietud incluso después del período de garantía."
+  },
+  "dynamicPage": {
+    "services": {
+      "title": "Servicios",
+      "content": "Ofrecemos una gama completa de servicios de construcción diseñados para satisfacer las diversas necesidades de nuestros clientes. Nuestro equipo aporta décadas de experiencia combinada a cada proyecto, garantizando resultados de calidad entregados a tiempo y dentro del presupuesto."
+    },
+    "projects": {
+      "title": "Proyectos",
+      "content": "Nuestro portafolio muestra más de 500 proyectos completados en los sectores comercial, residencial e industrial. Cada proyecto refleja nuestro compromiso con la calidad, la innovación y la satisfacción del cliente."
+    },
+    "careers": {
+      "title": "Carreras",
+      "content": "Únase a un equipo que construye el futuro. Siempre estamos buscando profesionales talentosos que compartan nuestra pasión por la excelencia en la construcción. Consulte nuestras vacantes actuales y presente su solicitud hoy."
+    }
+  },
+  "footer": {
+    "aboutText": "SH1R00 Construcción es una empresa líder en construcción que ofrece proyectos excepcionales comerciales, residenciales e industriales desde 1998.",
+    "quickLinks": "Enlaces Rápidos",
+    "contactUs": "Contáctenos",
+    "copyright": "2025 SH1R00 Construcción. Todos los derechos reservados.",
+    "madeWith": "Hecho con",
+    "by": "por SH1R00"
+  },
+  "notFound": {
+    "heading": "Página No Encontrada",
+    "message": "La página que busca no existe o ha sido movida. Permítanos ayudarle a encontrar el camino de vuelta.",
+    "button": "Volver al Inicio",
+    "errorHeading": "Algo Salió Mal",
+    "errorMessage": "Encontramos un error inesperado. Por favor intente de nuevo o regrese a la página de inicio."
+  },
+  "darkMode": {
+    "toggle": "Cambiar modo oscuro",
+    "light": "Modo claro",
+    "dark": "Modo oscuro"
+  },
+  "language": {
+    "select": "Seleccionar idioma",
+    "en": "English",
+    "es": "Español",
+    "am": "አማርኛ"
+  },
+  "menu": {
+    "open": "Abrir menú",
+    "close": "Cerrar menú",
+    "mainNav": "Navegación principal"
+  },
+  "decorative": "decorativo"
+}

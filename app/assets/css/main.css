@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    @apply antialiased;
+  }
+
+  body {
+    @apply bg-surface-light text-primary-950 font-sans transition-colors duration-300;
+  }
+
+  html.dark body {
+    @apply bg-surface-dark text-gray-100;
+  }
+
+  h1, h2, h3, h4, h5 {
+    @apply font-display font-semibold tracking-tight;
+  }
+
+  h1 { @apply text-4xl md:text-5xl lg:text-6xl; }
+  h2 { @apply text-3xl md:text-4xl; }
+  h3 { @apply text-2xl md:text-3xl; }
+}
+
+@layer components {
+  .skip-to-content {
+    @apply absolute -top-full left-4 z-[100] bg-accent-500 text-white px-4 py-2 rounded-b-lg font-medium transition-all duration-200;
+  }
+
+  .skip-to-content:focus {
+    @apply top-0 outline-none ring-2 ring-accent-300;
+  }
+
+  .card {
+    @apply bg-white rounded-2xl shadow-card border border-gray-100 overflow-hidden transition-all duration-300;
+  }
+
+  .dark .card {
+    @apply bg-gray-800 border-gray-700;
+  }
+
+  .card:hover {
+    @apply shadow-card-hover -translate-y-1;
+  }
+
+  .btn-filled {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 bg-primary-600 text-white font-semibold rounded-xl hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .btn-outlined {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 border-2 border-primary-600 text-primary-600 font-semibold rounded-xl hover:bg-primary-600 hover:text-white focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .dark .btn-outlined {
+    @apply border-gray-300 text-gray-300 hover:bg-gray-300 hover:text-gray-900;
+  }
+
+  .form-input {
+    @apply w-full px-4 py-3 bg-white border border-gray-300 rounded-xl text-primary-950 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all duration-200;
+  }
+
+  .dark .form-input {
+    @apply bg-gray-800 border-gray-600 text-gray-100 placeholder-gray-500;
+  }
+
+  .form-input[aria-invalid="true"] {
+    @apply border-red-500 focus:ring-red-500;
+  }
+
+  .section-padding {
+    @apply py-16 md:py-24 px-4;
+  }
+
+  .container-narrow {
+    @apply max-w-7xl mx-auto;
+  }
+
+  /* Focus visible styles for keyboard users */
+  :focus-visible {
+    @apply outline-none ring-2 ring-accent-500 ring-offset-2;
+  }
+
+  .dark :focus-visible {
+    @apply ring-offset-gray-900;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .bg-primary-gradient {
+    background: linear-gradient(135deg, #1c2b4a 0%, #425779 100%);
+  }
+
+  .dark .bg-primary-gradient {
+    background: linear-gradient(135deg, #0a1224 0%, #1c2b4a 100%);
+  }
+}
