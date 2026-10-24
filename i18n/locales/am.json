@@ -216,5 +216,11 @@
     "close": "ምናሌ ዝጋ",
     "mainNav": "ዋና ዳሰሳ"
   },
-  "decorative": "ያጌጠ"
+  "decorative": "ያጌጠ",
+  "pwa": {
+    "heading": "ይህን መተግበሪያ ይጫኑ",
+    "description": "ከመስመር ውጭ ተደራሽነት እና ፈጣን ተሞክሮ ለማግኘት ይህን መተግበሪያ ይጫኑ።",
+    "install": "ይጫኑ",
+    "dismiss": "ይዝለሉ"
+  }
 }

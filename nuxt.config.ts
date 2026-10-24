@@ -11,19 +11,16 @@ export default defineNuxtConfig({
   ],
 
   i18n: {
+    lazy: true,
     strategy: 'prefix',
     defaultLocale: 'en',
     baseUrl: 'http://localhost:3000',
     locales: [
-      { code: 'en', iso: 'en-US', name: 'English' },
-      { code: 'es', iso: 'es-ES', name: 'Español' },
-      { code: 'am', iso: 'am-ET', name: 'አማርኛ' },
+      { code: 'en', language: 'en', iso: 'en-US', name: 'English' },
+      { code: 'es', language: 'es', iso: 'es-ES', name: 'Español' },
+      { code: 'am', language: 'am', iso: 'am-ET', name: 'አማርኛ' },
     ],
-    detectBrowserLanguage: {
-      useCookie: true,
-      cookieKey: 'i18n_redirected',
-      redirectOn: 'root',
-    },
+    detectBrowserLanguage: false,
     compilation: { strictMessage: false },
     vueI18n: './i18n.config.ts',
   },
@@ -31,7 +28,7 @@ export default defineNuxtConfig({
   pwa: {
     registerType: 'autoUpdate',
     devOptions: { enabled: false },
-    manifest: { name: 'App', short_name: 'App', theme_color: '#000000', background_color: '#ffffff', display: 'standalone' },
+    manifest: { name: 'SH1R00 Construction', short_name: 'SH1R00 Construction', theme_color: '#f59e0b', background_color: '#ffffff', display: 'standalone' },
     workbox: { globPatterns: ['**/*.{js,css,html,png,svg,ico,woff2,json}'], navigateFallback: '/', cleanupOutdatedCaches: true, skipWaiting: true, clientsClaim: true,
       runtimeCaching: [
         { urlPattern: /\\.json$/, handler: 'StaleWhileRevalidate', options: { cacheName: 'i18n' } },
@@ -45,7 +42,7 @@ export default defineNuxtConfig({
     headers: process.env.NODE_ENV === "development" ? false : {
       contentSecurityPolicy: {
         'default-src': ["'self'"],
-        'script-src': ["'self'", "'unsafe-inline'"],
+        'script-src': ["'self'", "'strict-dynamic'", "'nonce-{{nonce}}'"],
         'style-src': ["'self'", "'unsafe-inline'", 'https://fonts.googleapis.com'],
         'font-src': ["'self'", 'https://fonts.gstatic.com', 'https://fonts.googleapis.com'],
         'img-src': ["'self'", 'data:', 'https:'],
@@ -56,17 +53,8 @@ export default defineNuxtConfig({
         'form-action': ["'self'"],
       },
     },
-    rateLimiter: false,
+    rateLimiter: { tokensPerInterval: 30, interval: 60000 },
     xssValidator: process.env.NODE_ENV !== "development",
-  },
-
-  
-  components: {
-    dirs: [
-      { path: '~/app/components/atoms', pathPrefix: false },
-      { path: '~/app/components/molecules', pathPrefix: false },
-      { path: '~/app/components/organisms', pathPrefix: false },
-    ],
   },
 
   css: ['~/assets/css/main.css'],
@@ -78,7 +66,6 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      htmlAttrs: { lang: 'en' },
       title: 'SH1R00 Construction',
       meta: [
         { charset: 'utf-8' },
