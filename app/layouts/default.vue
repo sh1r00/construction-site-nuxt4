@@ -20,6 +20,6 @@ const { t } = useI18n()
 const darkModeStore = useDarkModeStore()
 
 onMounted(() => {
-  darkModeStore.init()
+  darkModeStore.initialize()
 })
 </script>
