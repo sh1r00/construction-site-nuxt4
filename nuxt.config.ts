@@ -16,13 +16,12 @@ export default defineNuxtConfig({
     defaultLocale: 'en',
     baseUrl: 'http://localhost:3000',
     locales: [
-      { code: 'en', language: 'en', iso: 'en-US', name: 'English' },
-      { code: 'es', language: 'es', iso: 'es-ES', name: 'Español' },
-      { code: 'am', language: 'am', iso: 'am-ET', name: 'አማርኛ' },
+      { code: 'en', language: 'en', iso: 'en-US', name: 'English', file: 'en.json' },
+      { code: 'es', language: 'es', iso: 'es-ES', name: 'Español', file: 'es.json' },
+      { code: 'am', language: 'am', iso: 'am-ET', name: 'አማርኛ', file: 'am.json' },
     ],
     detectBrowserLanguage: false,
     compilation: { strictMessage: false },
-    vueI18n: './i18n.config.ts',
   },
 
   pwa: {
